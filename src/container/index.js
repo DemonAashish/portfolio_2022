@@ -9,3 +9,4 @@ export {default as Skills} from './Skills/Skills'
 export {default as Testimonials} from './Testimonial/Testimonial'
 
 export {default as  Work} from './Work/Work'
+

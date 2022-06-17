@@ -1,9 +1,8 @@
+import React from 'react';
 import './App.css';
-import './App.scss'
-
 import {About, Footer, Header, Testimonials, Work, Skills} from './container'
-import {Navbar} from './components'
-
+import Navbar from './components/Navbar/Navbar';
+import './App.scss'
 function App() {
   return (
     <div className="app">
